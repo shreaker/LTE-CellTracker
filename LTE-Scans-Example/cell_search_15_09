@@ -1,0 +1,28 @@
+Vert900 - 824 to 960 MHz, 1710 to 1990
+
+Band 3
+Found CELL 1868.1 MHz, EARFCN=1831, PHYID=0, 50 PRB, 4 ports, PSS power=-17.1 dBm
+Found CELL 1868.5 MHz, EARFCN=1835, PHYID=0, 25 PRB, 2 ports, PSS power=-13.7 dBm
+Found CELL 1868.6 MHz, EARFCN=1836, PHYID=24, 100 PRB, 2 ports, PSS power=-9.5 dBm
+Found CELL 1868.9 MHz, EARFCN=1839, PHYID=0, 75 PRB, 4 ports, PSS power=-11.8 dBm
+Found CELL 1869.0 MHz, EARFCN=1840, PHYID=0, 125 PRB, 1 ports, PSS power=-15.2 dBm
+
+Band 8
+---
+
+Band 20
+Found CELL 806.0 MHz, EARFCN=6300, PHYID=367, 50 PRB, 2 ports, PSS power=-10.7 dBm
+Found CELL 806.0 MHz, EARFCN=6300, PHYID=95, 50 PRB, 2 ports, PSS power=-12.9 dBm
+Found CELL 806.3 MHz, EARFCN=6303, PHYID=1, 15 PRB, 4 ports, PSS power=-17.4 dBm
+
+Band 28
+Found CELL 766.2 MHz, EARFCN=9292, PHYID=1, 25 PRB, 4 ports, PSS power=-29.4 dBm
+Found CELL 796.0 MHz, EARFCN=9590, PHYID=153, 50 PRB, 2 ports, PSS power=-24.5 dBm
+Found CELL 796.0 MHz, EARFCN=9590, PHYID=151, 50 PRB, 2 ports, PSS power=-24.3 dBm
+
+
+Vert2450 - 2.4 to 2.48 GHz, 4.9 to 5.9 GHz
+
+Band 7
+Found CELL 2630.0 MHz, EARFCN=2850, PHYID=293, 100 PRB, 2 ports, PSS power=-24.5 dBm
+Found CELL 2630.2 MHz, EARFCN=2852, PHYID=2, 150 PRB, 4 ports, PSS power=-29.0 dBm

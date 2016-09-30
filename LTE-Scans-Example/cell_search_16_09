@@ -1,0 +1,24 @@
+Vert900 - 824 to 960 MHz, 1710 to 1990
+
+Band 3
+------
+Found 6 cells
+Found CELL 1815.0 MHz, EARFCN=1300, PHYID=306, 100 PRB, 2 ports, PSS power=-18.5 dBm
+Found CELL 1868.4 MHz, EARFCN=1834, PHYID=0, 100 PRB, 1 ports, PSS power=-7.8 dBm
+Found CELL 1868.6 MHz, EARFCN=1836, PHYID=24, 100 PRB, 2 ports, PSS power=-4.7 dBm
+Found CELL 1868.6 MHz, EARFCN=1836, PHYID=2, 6 PRB, 4 ports, PSS power=-8.4 dBm
+Found CELL 1868.8 MHz, EARFCN=1838, PHYID=2, 75 PRB, 2 ports, PSS power=-16.3 dBm
+Found CELL 1868.9 MHz, EARFCN=1839, PHYID=0, 100 PRB, 2 ports, PSS power=-9.2 dBm
+
+Band 8
+------
+Found 0 cells
+
+
+Band 8
+------
+Found 4 cells
+Found CELL 796.0 MHz, EARFCN=6200, PHYID=153, 50 PRB, 2 ports, PSS power=-20.5 dBm
+Found CELL 796.0 MHz, EARFCN=6200, PHYID=151, 50 PRB, 2 ports, PSS power=-24.1 dBm
+Found CELL 806.0 MHz, EARFCN=6300, PHYID=95, 50 PRB, 2 ports, PSS power=-3.2 dBm
+Found CELL 806.1 MHz, EARFCN=6301, PHYID=29, 50 PRB, 1 ports, PSS power=-6.7 dBm
