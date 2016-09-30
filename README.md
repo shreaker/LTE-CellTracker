@@ -12,4 +12,4 @@ Automatically parse LTE-Pcap-files (Wireshark) and show the position of the eNod
 -f File to PCAP files/folder
 -l Locator used to get cell coordinates
 
-#Provide your own API keys for opencellid.org and Google Geolocation in CellTracker.ini
+-Provide your own API keys for opencellid.org and Google Geolocation in CellTracker.ini
